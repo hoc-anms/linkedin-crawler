@@ -1,0 +1,4 @@
+beautifulsoup4==4.10.0
+python-apt==2.0.0+ubuntu0.20.4.6
+python-csv==0.0.13
+selenium==4.0.0
